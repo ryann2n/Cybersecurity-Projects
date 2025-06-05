@@ -24,5 +24,5 @@ This repo documents weekly labs, notes, and screenshots from the CodePath course
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/ryan-nartey-1bba52253/)
 - [Portfolio](https://yourportfolio.com) *(N/A in progress)*  
