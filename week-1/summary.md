@@ -5,6 +5,8 @@
 ## 🔐 Exercise 1: ROT13 Decode
 **Message:** `Terng wbo qrpbqvat lbhe svefg pvcure!`  
 **Result:** `Great job decoding your first cipher!`
+![image](https://github.com/user-attachments/assets/d49f3c29-5ff6-45a0-bdb9-e5e880099809)
+
 
 ![Exercise 1](../screenshots/exercise1_intro.png)
 
