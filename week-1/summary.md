@@ -6,7 +6,7 @@
 **Message:** `Terng wbo qrpbqvat lbhe svefg pvcure!`  
 **Result:** `Great job decoding your first cipher!`
 
-![Intro](./screenshots/exercise1_intro.png)
+![Exercise 1](../screenshots/exercise1_intro.png)
 
 ---
 
@@ -17,7 +17,7 @@ Decoded using Rail Fence → `CODEPATH`
 **Message:** `Acx'vt dhppu dqpzbui! Yhie im br!`  
 **Result:** `You're doing amazing! Keep it up!`
 
-![Rail Fence Key](./screenshots/exercise2_rail_fence_key.png)
+![Exercise 2](../screenshots/exercise2_rail_fence_key.png)
 
 ---
 
@@ -25,14 +25,14 @@ Decoded using Rail Fence → `CODEPATH`
 **Message:** `Ijhtinsl rjxxfljx nx kzs, gzy bmfy jqxj hfs bj it?!`  
 **Result:** `Decoding messages is fun, but what else can we do?!`
 
-![ROT13 ](./screenshots/exercise3_rot13.png)
+![Exercise 3](../screenshots/exercise3_rot13.png)
 
 ---
 
 ## 🧩 Exercise 4: Broken Image Fix
 Used CyberChef to repair a broken PNG file using hex editing and magic number replacement.
 
-![Fixed Image](./screenshots/exercise4_magic_numbers.png)
+![Exercise 4](../screenshots/exercise4_magic_numbers.png)
 
 ---
 
@@ -40,7 +40,7 @@ Used CyberChef to repair a broken PNG file using hex editing and magic number re
 Used color palette tools to uncover the message hidden in an image:  
 **Result:** *"I'm Impressed"*
 
-![Hidden Message](./screenshots/exercise5_hidden_message.png)
+![Exercise 5](../screenshots/exercise5_hidden_message.png)
 
 ---
 
@@ -51,4 +51,4 @@ Used CrackStation to decode the hash:
 **Message:** `Qfw ech'uv rkoqb wox huh gruxrfk!`  
 **Result:** `Now you're ready for the project!`
 
-![Rail Fence CODEPATH](./screenshots/exercise6_vigenere_decode.png)
+![Exercise 6](../screenshots/exercise6_vigenere_decode.png)
