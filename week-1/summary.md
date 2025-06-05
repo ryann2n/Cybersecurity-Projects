@@ -1,55 +1,70 @@
-# Week 1 – CyberChef: Encoding, Encryption, and Forensics
+# Week 1 – CyberChef Lab Summary
 
 ---
 
-## 🔐 Exercise 1: ROT13 Decode
+## 🧠 Introduction
+
+In this lab, we explored CyberChef's capabilities like encoding, encryption, decryption, and digital forensics.
+
+![Intro](../screenshots/CyberChef - Intro.png)
+
+---
+
+## 🔐 Exercise 1 – ROT13 Cipher
+
 **Message:** `Terng wbo qrpbqvat lbhe svefg pvcure!`  
-**Result:** `Great job decoding your first cipher!`
+**Decoded:** `Great job decoding your first cipher!`
 
-![ROT13](./screenshots/exercise1_rot13.png)
+![Exercise 1](../screenshots/CyberChef - EX1.png)
 
 ---
 
-## 🔐 Exercise 2: Rail Fence & Vigenère
-**Scrambled key:** `CTOAHDPE`  
-Decoded using Rail Fence → `CODEPATH`
+## 🔐 Exercise 2 – Rail Fence + Vigenère Cipher
 
+**Scrambled Key:** `CTOAHDPE`  
+**Decoded Key:** `CODEPATH` using Rail Fence Cipher  
 **Message:** `Acx'vt dhppu dqpzbui! Yhie im br!`  
-**Result:** `You're doing amazing! Keep it up!`
+**Decoded:** `You're doing amazing! Keep it up!`
 
-![Rail Fence Key](./screenshots/exercise2_rail_fence_key.png)  
-![Vigenere Decode](./screenshots/exercise2_vigenere_decode.png)
+![Exercise 2](../screenshots/Rail Fence Cipher Decode - CyberChef - EX2.png)
 
 ---
 
-## 🔐 Exercise 3: Another ROT13
+## 🔐 Exercise 3 – ROT13 Practice
+
 **Message:** `Ijhtinsl rjxxfljx nx kzs, gzy bmfy jqxj hfs bj it?!`  
-**Result:** `Decoding messages is fun, but what else can we do?!`
+**Decoded:** `Decoding messages is fun, but what else can we do?!`
 
-![ROT13 Again](./screenshots/exercise3_rot13.png)
-
----
-
-## 🧩 Exercise 4: Broken Image Fix
-Used CyberChef to repair a broken PNG file using hex editing and magic number replacement.
-
-![Fixed Image](./screenshots/exercise4_magic_numbers.png)
+![Exercise 3](../screenshots/CyberChef - ROT13 Ex3.png)
 
 ---
 
-## 🧠 Exercise 5: Hidden Forensics Message
-Used color palette tools to uncover the message hidden in an image:  
-**Result:** *"I'm Impressed"*
+## 🧩 Exercise 4 – Fix a Corrupted Image Header
 
-![Hidden Message](./screenshots/exercise5_hidden_message.png)
+Used hex tools to restore a PNG image’s header and successfully render it.
+
+![Exercise 4](../screenshots/CyberChef - Image to Hex Ex4.png)
 
 ---
 
-## 🧪 Exercise 6: Hash Crack + Vigenère
-Used CrackStation to decode the hash:  
-**Key:** `Dragon`
+## 🕵️ Exercise 5 – Hidden Message in an Image
+
+Applied forensics tools and palette tweaks to reveal a hidden message in the image.
+
+**Result:** `"I'm impressed!!!"`
+
+![Exercise 5](../screenshots/From Hex, Render Image - CyberChef - EX5.png)
+
+---
+
+## 🧪 Exercise 6 – Vigenère + CrackStation Hash
 
 **Message:** `Qfw ech'uv rkoqb wox huh gruxrfk!`  
-**Result:** `Now you're ready for the project!`
+**Key (Cracked):** `Dragon`  
+**Decoded Message:** `Now you're ready for the project!`
 
-![Rail Fence CODEPATH](./screenshots/exercise6_rail_fence_codepath.png)
+![Exercise 6](../screenshots/ex6.png)
+
+---
+
+Let me know if you'd like me to review or push the full Markdown file to GitHub for you!
