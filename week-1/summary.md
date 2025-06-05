@@ -6,7 +6,7 @@
 **Message:** `Terng wbo qrpbqvat lbhe svefg pvcure!`  
 **Result:** `Great job decoding your first cipher!`
 
-![Exercise 1](../screenshots/exercise1_intro.png)
+![Exercise 1](week-1/screenshots/exercise1_intro.png)
 
 ---
 
