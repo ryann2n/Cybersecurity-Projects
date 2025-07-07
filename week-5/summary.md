@@ -128,6 +128,8 @@ To avoid cached responses affecting results:
   ```
 - Saved using `Ctrl + O` → Enter  
   Exited using `Ctrl + X`
+![image](https://github.com/user-attachments/assets/b68e4fed-17ee-4fa4-83e7-58f86e232f20)
+
 
 ✅ **Checkpoint 6 Complete**
 
@@ -141,8 +143,11 @@ To avoid cached responses affecting results:
   dig www.neverssl.com +nocomments
   ```
 - Verified that the IP addresses were now **swapped**.
+![image](https://github.com/user-attachments/assets/dafc1f25-62a5-42f6-8233-70907f95744b)
+
 
 ✅ **Checkpoint 7 Complete**
+![image](https://github.com/user-attachments/assets/b183e35d-e677-4473-a269-33652cc83d69)
 
 ---
 
@@ -177,6 +182,7 @@ To avoid cached responses affecting results:
 ## 📸 Screenshots
 
 > Screenshots will be added below or uploaded to this folder manually.
+![image](https://github.com/user-attachments/assets/9594e321-1a15-4744-a9b1-56861230054c)
 
 ---
 
